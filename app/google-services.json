@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "163736391718",
+    "project_id": "gen-lang-client-0306514623",
+    "storage_bucket": "gen-lang-client-0306514623.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163736391718:android:f7e3f12293729581f6d6e7",
+        "android_client_info": {
+          "package_name": "com.aistudio.urbanalert.salvador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163736391718-7h0g2ljqkoc461c36a9ju1i3luegul7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aistudio.urbanalert.salvador",
+            "certificate_hash": "4458627a4b50ad97e867f95f0030d66fecaead7f"
+          }
+        },
+        {
+          "client_id": "163736391718-onm54mi1n5k0aapfdla9cligkq7mhu6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuhwUJmfYqHaoBaRwdqqo9v-aW8UHPg0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163736391718-onm54mi1n5k0aapfdla9cligkq7mhu6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
